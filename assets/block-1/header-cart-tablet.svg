@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Site/Icon button">
+<rect width="44" height="44" rx="22" fill="#F6F8F8"/>
+<g id="Icon/Cart">
+<path id="Vector" d="M15.875 18.5H28.125L27.075 28.2125C27.0532 28.4291 26.9515 28.6298 26.7897 28.7754C26.6279 28.921 26.4177 29.0011 26.2 29H17.8C17.5823 29.0011 17.3721 28.921 17.2103 28.7754C17.0485 28.6298 16.9468 28.4291 16.925 28.2125L15.875 18.5Z" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke="#004255"/>
+<path id="Vector_2" d="M19.375 18.5V17.1875C19.375 16.4913 19.6516 15.8236 20.1438 15.3313C20.6361 14.8391 21.3038 14.5625 22 14.5625C22.6962 14.5625 23.3639 14.8391 23.8562 15.3313C24.3484 15.8236 24.625 16.4913 24.625 17.1875V18.5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke="#004255"/>
+</g>
+<circle id="Badge" cx="28" cy="15" r="5" fill="#E64D3D" stroke-width="2" stroke="#EDF0F1"/>
+</g>
+</svg>
